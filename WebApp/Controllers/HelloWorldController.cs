@@ -8,6 +8,7 @@ namespace WebApp.Controllers
         // GET: Hello
         public string Index()
         {
+            // TODO: retrieve this from the DB
             return "This is my <b>Default</b> action";
         }
 

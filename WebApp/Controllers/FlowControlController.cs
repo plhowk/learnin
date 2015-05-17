@@ -11,6 +11,8 @@ namespace WebApp.Controllers
         // GET: FlowControl
         public ActionResult Index()
         {
+            List<int> count = new List<int> { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
             // TODO: ForEach loop
             // TODO: For loop
             // TODO: While loop
